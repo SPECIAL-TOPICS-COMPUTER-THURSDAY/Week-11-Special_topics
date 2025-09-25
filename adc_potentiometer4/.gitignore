@@ -1,0 +1,44 @@
+# --- ESP-IDF build outputs ---
+/build/
+/managed_components/
+/.cmake/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# ไฟล์คอนฟิกที่เกิดจากการใช้งานจริง (เก็บ sdkconfig.defaults แทน)
+sdkconfig
+sdkconfig.old
+
+# ไฟล์ไบนารี/อาร์ติเฟกต์ (กันพลาดถ้ามีหลงมานอกโฟลเดอร์ build)
+*.bin
+*.elf
+*.map
+*.hex
+*.log
+
+# Python / virtual env
+__pycache__/
+*.pyc
+/.venv/
+/.venv*/
+/env/
+/.pytest_cache/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Misc
+*.swp
+*.swo
+*~
+*.tmp
+/.idf/
+.cache/
