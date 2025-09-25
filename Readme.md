@@ -1,14 +1,14 @@
 ## ผลการทดลอง1
-![Screenshot 2025-09-25 100652.png](<attachment:Screenshot 2025-09-25 100652.png>)
+![alt text](<Screenshot 2025-09-25 100652.png>)
 
 ## ผลการทดลอง2
-![image.png](attachment:image.png)
+![alt text](<Screenshot 2025-09-25 103811.png>)
 
 ## ผลการทดลอง3
-![image.png](attachment:image.png)
+![alt text](<Screenshot 2025-09-25 104545.png>)
 
 ## ผลการทดลอง4
-![image.png](attachment:image.png)
+![alt text](<Screenshot 2025-09-25 111758.png>)
 
 ## ผลการทดลอง5
-![image.png](attachment:image.png)
+![alt text](<Screenshot 2025-09-25 114252.png>)
